@@ -100,13 +100,13 @@ footer a {
 .content-left {
   justify-content: center;
   align-items: center;
-  padding: 100px 50px 100px 100px;
+  padding: 100px 50px 100px 200px;
 }
 
 .content-right {
   justify-content: center;
   align-items: center;
-  padding: 0px 0px 0px 150px;
+  padding: 0px 0px 0px 200px;
 }
 .hero-desk-img {
   display: block;
