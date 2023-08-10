@@ -38,6 +38,9 @@ body {
   min-height: 100vh;
 }
 
+.logo {
+  margin-bottom: 40px;
+}
 .title {
   margin-top: 40px;
 }
