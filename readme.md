@@ -30,7 +30,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./src/assets/images/Desktopimg1.png)
+
+![](./src/assets/images/mobileimg1.png)
 
 ### Links
 
@@ -87,6 +89,8 @@ I want to continue focusing on CSS grid and how to use it. I also want to learn 
 - [Color overlay on hover image ](https://stackoverflow.com/questions/40292168/color-overlay-on-hover-image) - This helped me to understand how to use the overlay on CSS. I really liked this pattern and will use it going forward.
 
 - [How to make a responsive image gallery using CSS grid](https://www.youtube.com/watch?v=0srbZ2LYJfw) - This is an amazing video tutorial which helped me finally understand how to use CSS grid. I'd recommend it to anyone still learning this concept.
+
+- [How to validate forms in React](https://www.youtube.com/watch?v=6TPYxLVq0FY) - This is an amazing video tutorial which helped me finally understand how to validate forms in React. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
